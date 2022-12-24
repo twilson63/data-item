@@ -1,0 +1,17 @@
+{
+  "name": "data-item",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/twilson63/data-item.git",
+  "author": "Tom Wilson <tom@hyper.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "microbundle": "^0.15.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "base64url": "^3.0.1",
+    "bops": "^1.0.1"
+  }
+}
